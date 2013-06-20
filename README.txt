@@ -27,7 +27,6 @@
 * so I do not take credit for any of those.
 */
 
-YouTUbe Video of Running Code:
 YouTube Video of Running Code:
 http://www.youtube.com/watch?v=WXr3IaX0Xao
 
